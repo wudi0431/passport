@@ -1,0 +1,85 @@
+[master] start master...
+[worker] start worker ...2
+worker2
+1447816948791 'Express server listening on port 9999'
+[master] listening: worker2,pid:30707, Address:0.0.0.0:9999
+[worker] start worker ...1
+worker1
+1447816948819 'Express server listening on port 9999'
+[master] listening: worker1,pid:30705, Address:0.0.0.0:9999
+[worker] start worker ...4
+worker4
+1447816948845 'Express server listening on port 9999'
+[master] listening: worker4,pid:30710, Address:0.0.0.0:9999
+[worker] start worker ...3
+worker3
+1447816948866 'Express server listening on port 9999'
+[master] listening: worker3,pid:30708, Address:0.0.0.0:9999
+[master] start master...
+[worker] start worker ...1
+worker1
+1447817748400 'Express server listening on port 9999'
+[master] listening: worker1,pid:31644, Address:0.0.0.0:9999
+[worker] start worker ...3
+worker3
+1447817748410 'Express server listening on port 9999'
+[master] listening: worker3,pid:31647, Address:0.0.0.0:9999
+[worker] start worker ...4
+[worker] start worker ...2
+worker4
+1447817748437 'Express server listening on port 9999'
+[master] listening: worker4,pid:31649, Address:0.0.0.0:9999
+worker2
+1447817748440 'Express server listening on port 9999'
+[master] listening: worker2,pid:31645, Address:0.0.0.0:9999
+[master] start master...
+[worker] start worker ...3
+worker3
+1447818079393 'Express server listening on port 9999'
+[master] listening: worker3,pid:32092, Address:0.0.0.0:9999
+[worker] start worker ...4
+worker4
+1447818079400 'Express server listening on port 9999'
+[master] listening: worker4,pid:32094, Address:0.0.0.0:9999
+[worker] start worker ...1
+worker1
+1447818079415 'Express server listening on port 9999'
+[master] listening: worker1,pid:32089, Address:0.0.0.0:9999
+[worker] start worker ...2
+worker2
+1447818079442 'Express server listening on port 9999'
+[master] listening: worker2,pid:32090, Address:0.0.0.0:9999
+[master] start master...
+[worker] start worker ...4
+worker4
+1447818207167 'Express server listening on port 9999'
+[master] listening: worker4,pid:32274, Address:0.0.0.0:9999
+[worker] start worker ...2
+worker2
+1447818207172 'Express server listening on port 9999'
+[master] listening: worker2,pid:32271, Address:0.0.0.0:9999
+[worker] start worker ...3
+[worker] start worker ...1
+worker3
+1447818207182 'Express server listening on port 9999'
+[master] listening: worker3,pid:32273, Address:0.0.0.0:9999
+worker1
+1447818207186 'Express server listening on port 9999'
+[master] listening: worker1,pid:32270, Address:0.0.0.0:9999
+[master] start master...
+[worker] start worker ...4
+worker4
+1447818395688 'Express server listening on port 9999'
+[master] listening: worker4,pid:32515, Address:0.0.0.0:9999
+[worker] start worker ...1
+worker1
+1447818395719 'Express server listening on port 9999'
+[master] listening: worker1,pid:32511, Address:0.0.0.0:9999
+[worker] start worker ...2
+worker2
+1447818395729 'Express server listening on port 9999'
+[master] listening: worker2,pid:32512, Address:0.0.0.0:9999
+[worker] start worker ...3
+worker3
+1447818395763 'Express server listening on port 9999'
+[master] listening: worker3,pid:32514, Address:0.0.0.0:9999
